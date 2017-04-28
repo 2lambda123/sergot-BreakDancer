@@ -1,6 +1,7 @@
 {
     "perl": "6.*",
     "name": "BreakDancer",
+    "license" : "MIT",
     "version": "*",
     "description": "Framework for generating static webpages.",
     "build-depends" : [
